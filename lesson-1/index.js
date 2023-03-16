@@ -1,0 +1,1 @@
+ReactDOM.render(<h3>Olá!, meu nome é Rodrigo Hickenbick</h3>, document.querySelector("#root"));
